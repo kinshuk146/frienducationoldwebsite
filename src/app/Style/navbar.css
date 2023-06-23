@@ -1,0 +1,13 @@
+
+#link::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #ffffff;
+    display: block;
+    margin: auto;
+    transition: 300ms;
+}
+#link:hover::after{
+    width: 100%;
+}
