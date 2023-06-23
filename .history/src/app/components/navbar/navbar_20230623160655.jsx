@@ -4,7 +4,6 @@ import Logo from '../../../../public/logo.png'
 import Dark_mode from '../../../../public/dark_mode.png'
 import Image from 'next/image';
 import '../../Style/navbar.css'
-// navbar
 const links = [
     {
         id: 1,
